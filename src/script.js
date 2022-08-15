@@ -6,7 +6,7 @@ import * as dat from "dat.gui";
 //fonts
 const fontloader = new THREE.FontLoader();
 fontloader.load("font/helvetiker_regular.typeface.json", (font) => {
-  const textGeometry = new THREE.TextBufferGeometry("Happy 75 Independence Day", {
+  const textGeometry = new THREE.TextBufferGeometry("Happy 76 Independence Day", {
     font: font,
     size: 0.9,
     height: 0.2,
